@@ -6,5 +6,5 @@ function test($a,$b){
 }
 
 function a(){
-    echo 222222222222222222;
+    echo 2222;
 }
